@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mina El Huracán</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="icons/H1.png" type="image/x-icon">
+</head>
+
+<body>
+
+<header class="header fixed-top">
+    <div class="container">
+        <div class="d-flex align-items-center justify-content-between w-100">
+            <a href="#home" class="logo">El<span>Huracán.</span></a>
+            <nav class="nav">
+                <a href="#home">Inicio</a>
+                <a href="#services">Inversión</a>
+                <a href="#about">Geología</a>
+                <a href="#boxes-section">Testimonios</a>
+                <a href="#history">Historia</a>
+                <a href="#partners-section">Partners</a>
+                <a href="#footer">Contacto</a>
+            </nav>
+            <a href="https://wa.me/56956531001?text=Hola,%20me%20gustar%C3%ADa%20coordinar%20una%20reuni%C3%B3n%20para%20conocer%20m%C3%A1s%20sobre%20el%20proyecto%20El%20Hurac%C3%A1n." target="_blank" class="link-btn" rel="noopener noreferrer">Contactar</a>
+            <div id="menu-btn" class="fas fa-bars"></div>
+        </div>
+    </div>
+</header>
+
+<section class="boxes-home" id="home">
+    <video autoplay muted loop playsinline class="bg-video">
+        <source src="video/mina11.mp4" type="video/mp4">
+        Tu navegador no soporta videos HTML5.
+    </video>
+    <div class="container">
+        <div class="row min-vh-100 align-items-center">
+            <div class="content text-md-left">
+                <h3>MINERA<br>EL HURACÁN - CHILE</h3>
+                <p>El Huracán es una oportunidad de inversión minera estratégica con respaldo geológico comprobado y gran potencial de crecimiento.</p>
+                <a href="https://wa.me/56956531001?text=Hola,%20me%20gustar%C3%ADa%20coordinar%20una%20reuni%C3%B3n%20para%20conocer%20m%C3%A1s%20sobre%20el%20proyecto%20El%20Hurac%C3%A1n." target="_blank" class="link-btn" rel="noopener noreferrer">Contactar</a>
+            </div>
+        </div>
+    </div>
+
+<div class="contact-bottom-wrapper">
+  <div class="contact-bottom">
+    <div class="contact-items">
+      <span class="contact-item">
+        <i class="fas fa-phone-alt"></i> +569 9371 9226
+      </span>
+      <span class="contact-item">
+        <i class="fas fa-envelope"></i> slmelhuracan@gmail.com
+      </span>
+    </div>
+  </div>
+</div>
+
+</section>
+
+<section class="stats-container">
+  <div class="stat-box">
+    <div class="stat-number">303 M<span class="stat-percent">USD</span></div>
+    <div class="stat-title">Según los estudios geológicos y financieros, el proyecto tiene un valor potencial de hasta USD 303 millones.</div>
+    <div class="stat-subtitle">Valor Proyecto</div>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">6<span class="stat-plus">+</span></div>
+    <div class="stat-title">Los recursos identificados incluyen Fe, Cu, Au, Ag, Pd y Co como minerales con potencial económico.</div>
+    <div class="stat-subtitle">Minerales Económicos</div>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">200<span class="stat-plus">ha</span></div>
+    <div class="stat-title">El proyecto, ubicado al norte del antiguo distrito minero aurífero de TilTil presenta una extensión de 200 hectáreas.</div>
+    <div class="stat-subtitle">Área de extensión</div>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">15<span class="stat-plus">km2</span></div>
+    <div class="stat-title">Se han realizado múltiples mapeos geológicos, abarcando unidades litológicas, estructuras geológicas y alteraciones.</div>
+    <div class="stat-subtitle">Mapeo Distrito</div>
+  </div>
+</section>
+
+
+<section class="services" id="services">
+    <h1 class="heading">Invierte en El Huracán</h1>
+    <div class="box-container container">
+        <div class="box">
+            <img src="icons/H1.png" alt="Sobre el Yacimiento">
+            <h3>Sobre el Yacimiento</h3>
+            <p>El Huracán corresponde a un IOCG cretácico con mineralización hipógena de sulfuros de cobre y oro. Se proyecta una campaña de sondajes para disminuir la incertidumbre económica del depósito.</p>
+        </div>
+        <div class="box">
+            <img src="icons/H2.png" alt="Recursos Mineros">
+            <h3>Recursos</h3>
+            <p>Se estima que el potencial de recursos es superior a las <b>10 millones de toneladas</b>. Se está estudiando actualmente la continuidad en profundidad, lo que podría incrementar la cantidad de recursos estimados.</p>
+        </div>
+        <div class="box">
+            <img src="icons/H3.png" alt="Exploración Minera mining mine">
+            <h3>Exploración Minera</h3>
+            <p>Se ha identificado mineralización de alta ley en un túnel de exploración, con un promedio de <b>2,5%</b> de Cobre y <b>4,4 g/t</b> de Oro. En labores superficiales se han obtenido muestras de hasta <b>7 g/t</b> de Oro.</p>
+        </div>
+        <div class="box">
+            <img src="icons/H4.png" alt="Hallazgos Geológicos geología geology">
+            <h3>Hallazgos Geológicos</h3>
+            <p>Gracias a información de sondajes, se excavó un túnel de exploración que intersectó mena hipógena de sulfuros de Cobre y Oro. Adicionalmente, se presentan concentraciones de Paladio y Cobalto.</p>
+        </div>
+        <div class="box">
+            <img src="icons/H5.png" alt="Mapeo de la Mina">
+            <h3>Mapeo de la Mina</h3>
+            <p>Se cuenta con mapeos geológicos, estudios geofísicos, loggeo de 12 sondajes (<100m), cateos y una labor subterránea de exploración, de la cual se ha extraído y procesado mineral.</p>
+        </div>
+        <div class="box">
+            <img src="icons/H6.png" alt="Proyecto de Inversión">
+            <h3>Proyecto de Inversión</h3>
+            <p>Es un proyecto de exploración Brownfield de seguimiento; las vías de inversión son las siguientes: Joint Venture, Venta de Acciones o formación de una Asociación Estratégica.</p>
+        </div>
+    </div>
+</section>
+
+
+<section class="about" id="about">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 image">
+                <img src="img/geo6.png" class="w-100 mb-6 mb-md-0" alt="mina el huracán huracan">
+            </div>
+            <div class="col-md-6 content">
+                <span>Minera El Huracán</span>
+                <h3>Potencial Mineralógico</h3>
+                <p>En la propiedad se han efectuado 12 sondajes diamantinos
+                    donde se detectaron 7 vetas de espesores variables desde 0,6 a 2,8 m hasta
+                    una profundidad de 100 m desde la cima, con corridas sobre los 300 m.<br>
+                    Las vetas mesotermales a profundidad contienen mineralización
+                    diseminada de Au-Cu-Ag con Hematita-Magnetita-Pirita/Arsenopirita con
+                    una ley cercana al 1,5 % de CuI, hasta 4,4 g/t de Au y 5,0 g/t de Ag.<br>
+                    El depósito se puede enmarcar como un IOCG; considerando su extensión,
+                    se estima un potencial de <b>10-20 Mt</b>, lo que representa un valor total
+                    del proyecto superior a los <b>USD 300 millones</b>.</p>
+                <a href="#contact" class="link-btn">Contactar</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="geology" id="geology">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 content">
+                <span>Modelo Geofísico</span>
+                <h3>Cuerpo Mineralizado en Profundidad</h3>
+                <p>El modelo geofísico de cargabilidad revela una anomalía resistiva significativa (>1000 Ohm-m) al norte del perfil, a unos 50 metros de profundidad, 
+                    que se superpone con una estructura cargable que aflora hacia el sur. Esta correlación sugiere la posible presencia 
+                    de un cuerpo mineralizado asociado a vetas y brechas con sulfuros, ya identificadas en la zona. 
+                    Las altas cargabilidades registradas (>20 mV/V) fortalecen la hipótesis de un potencial cuerpo mineralizado masivo en profundidad.</p>
+                <a href="#contact" class="link-btn">Contactar</a>
+            </div>
+            <div class="col-md-6 image">
+                <img src="img/geo8.png" class="w-100 mb-6 mb-md-0" alt="mina el huracán huracan">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="boxes-section" id="boxes-section">
+    <h1 class="heading">TESTIMONIOS DE EXPERTOS</h1>
+    <div class="container new-boxes-container">
+        
+    <div class="new-box">
+            <img src="img/experto1.png" alt="Profesional 1" class="box-image">
+            <p>Texto del cuadro 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <span class="name">Carlos Marquardt</span>
+            <p class="subtitle">Geólogo, Director del Departamento de Ingeniería de Minería, Pontificia Universidad Católica de Chile. MSc en Ciencias de la Ingeniería, PhD en Geología Estructural, Université Paul Sabatier.</p>
+        </div>
+
+        <div class="new-box">
+            <img src="img/experto.png" alt="Profesional 1" class="box-image">
+            <p>Texto del cuadro 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <span class="name">Carolina Núñez</span>
+            <p class="subtitle">NN</p>
+        </div>
+
+        <div class="new-box">
+            <img src="img/experto3.jpg" alt="Profesional 1" class="box-image">
+            <p>Texto del cuadro 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <span class="name">Juan Carlos Marquardt</span>
+            <p class="subtitle">Geólogo Senior, Vicepresidente Comité FEXMIN, Profesor Universidad Santo Tomás.</p>
+        </div>
+
+        <div class="new-box">
+            <img src="img/experto.png" alt="Profesional 1" class="box-image">
+            <p>Texto del cuadro 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <span class="name">NN</span>
+            <p class="subtitle">NN</p>
+        </div>
+
+        <div class="new-box">
+            <img src="img/experto5.png" alt="Profesional 1" class="box-image">
+            <p>Texto del cuadro 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <span class="name">Paulina Vergara</span>
+            <p class="subtitle">CEO Geo2Mill. Licenciada en Geociencias, MSc en Ciencias de la Ingeniería y PhD (c) en Geociencias, Pontificia Universidad Católica de Chile.</p>
+        </div>
+
+        <div class="new-box">
+            <img src="img/experto6.jpg" alt="Profesional 1" class="box-image">
+            <p>Texto del cuadro 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <span class="name">Yuri Andrés Olivares</span>
+            <p class="subtitle">CTO Geo2Mill. Ingeniero Civil Industrial, Especialidad Minería, Pontificia Universidad Católica de Chile. Máster en Big Data & Business Intelligence y MBA en Dirección de Empresas, Universidad Isabel I de Castilla.</p>
+        </div>
+
+
+    </div>
+</section>
+
+<section class="history" id="history">
+    <h1 class="heading">Nuestra Historia</h1>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 image">
+                <div class="aspect-ratio-container">
+                    <img src="img/geo16.jpeg" class="w-100" alt="mina el huracán huracan">
+                </div>
+            </div>
+            <div class="col-md-6 content">
+                <span>Acerca de Nosotros</span>
+                <h3>¿Cómo nace El Huracán?</h3>
+                <p>
+                    Después de venirnos del sur, junto a mi familia decidimos instalarnos en la zona de Tiltil, Región Metropolitana, 
+                    para concretar un proyecto minero propio. Así nació, en 2012, la concesión El Huracán, con la cual iniciamos 
+                    este camino lleno de sacrificios y perseverancia. Tras obtener la propiedad minera, avanzamos con apoyo de ENAMI, 
+                    realizando nuestras primeras campañas de sondajes diamantinos y construyendo un túnel subterráneo de norte a sur 
+                    dentro de la concesión. Ese trabajo lo emprendimos con esfuerzo personal, incluso operando maquinaria menor y 
+                    equipos de perforación, lo que permitió encontrar las primeras vetas mineralizadas y habilitar caminos e 
+                    infraestructura básica para la faena.
+    
+                    Gracias a proyectos impulsados junto al Ministerio de Minería y ENAMI, pudimos dar un valor agregado a nuestro 
+                    trabajo inicial, complementado luego con un sondaje desarrollado junto a la Pontificia Universidad Católica de 
+                    Chile, cuyos resultados entregaron expectativas muy alentadoras.
+                    
+                    <span id="moreHistoryText" style="display: none;">
+                    En paralelo, el proyecto fue expuesto en instancias clave como FEXMIN, organizada por el Colegio de Geólogos de Chile, y en la PDAC 2024 en Canadá, consolidando así su visibilidad en el ecosistema minero.
+                    Hoy nuestro objetivo es avanzar hacia la explotación definitiva propia de un yacimiento con características IOCG, 
+                    que hemos logrado validar a través de sondajes y estudios técnicos. Actualmente nos encontramos en búsqueda de 
+                    inversionistas, con contactos ya establecidos en Chile y en el extranjero, incluyendo empresas de Australia. 
+                    Nuestro anhelo es proyectarnos como pioneros en la pequeña minería de la Región Metropolitana, incorporando 
+                    innovación y nuevas tecnologías.
+    
+                    En este sentido, la alianza con Geo2Mill, liderada por Paulina y Yuri, ha sido fundamental. Gracias a su apoyo 
+                    en analítica avanzada con inteligencia artificial, esperamos posicionarnos como referentes en la aplicación de 
+                    herramientas de vanguardia en pequeña minería. Además, nuestras proyecciones consideran la expansión de las 
+                    concesiones para sobrepasar las 500 hectáreas, con el fin de potenciar el valor del proyecto y abrir espacio a 
+                    futuras colaboraciones con empresas.
+    
+                    Lo que comenzó con un pequeño afloramiento rocoso, descubierto tras encontrar antiguos laboreos de pirquineros 
+                    de la década de 1950, se transformó en un verdadero desafío personal y familiar. Esa primera roca, que aún 
+                    conservo como trofeo, marcó el inicio de un camino que hoy nos tiene convencidos de que el esfuerzo y la visión 
+                    permitirán convertir a El Huracán en un proyecto minero de referencia.
+                    </span>
+                    <span id="historyToggleText" style="cursor: pointer; color: var(--blue);"> Ver más...</span>
+                </p>
+                <a href="#contact" class="link-btn">Contactar</a>
+            </div>
+        </div>
+
+        <div class="carousel-container">
+            <button class="carousel-nav prev-btn">❮</button>
+
+            <div class="image-carousel">
+                <div class="image-box">
+                    <div class="aspect-ratio-container">
+                        <img src="img/geo15.png" alt="Descripción de la imagen 1">
+                    </div>
+                    <p class="image-caption">Texto descriptivo de la imagen 1.</p>
+                </div>
+                <div class="image-box">
+                    <div class="aspect-ratio-container">
+                        <img src="img/geo15.png" alt="Descripción de la imagen 2">
+                    </div>
+                    <p class="image-caption">Texto descriptivo de la imagen 2.</p>
+                </div>
+                <div class="image-box">
+                    <div class="aspect-ratio-container">
+                        <img src="img/geo15.png" alt="Descripción de la imagen 3">
+                    </div>
+                    <p class="image-caption">Texto descriptivo de la imagen 3.</p>
+                </div>
+                <div class="image-box">
+                    <div class="aspect-ratio-container">
+                        <img src="img/geo15.png" alt="Descripción de la imagen 4">
+                    </div>
+                    <p class="image-caption">Texto descriptivo de la imagen 4.</p>
+                </div>
+                <div class="image-box">
+                    <div class="aspect-ratio-container">
+                        <img src="img/geo.jpeg" alt="Descripción de la imagen 5">
+                    </div>
+                    <p class="image-caption">Texto descriptivo de la imagen 5.</p>
+                </div>
+                <div class="image-box">
+                    <div class="aspect-ratio-container">
+                        <img src="img/geo.jpg" alt="Descripción de la imagen 1">
+                    </div>
+                    <p class="image-caption">Texto descriptivo de la imagen 1.</p>
+                </div>
+                <div class="image-box">
+                    <div class="aspect-ratio-container">
+                        <img src="img/geo.jpg" alt="Descripción de la imagen 2">
+                    </div>
+                    <p class="image-caption">Texto descriptivo de la imagen 2.</p>
+                </div>
+                <div class="image-box">
+                    <div class="aspect-ratio-container">
+                        <img src="img/geo.jpg" alt="Descripción de la imagen 3">
+                    </div>
+                    <p class="image-caption">Texto descriptivo de la imagen 3.</p>
+                </div>
+                <div class="image-box">
+                    <div class="aspect-ratio-container">
+                        <img src="img/geo.jpg" alt="Descripción de la imagen 4">
+                    </div>
+                    <p class="image-caption">Texto descriptivo de la imagen 4.</p>
+                </div>
+                <div class="image-box">
+                    <div class="aspect-ratio-container">
+                        <img src="img/geo.jpg" alt="Descripción de la imagen 5">
+                    </div>
+                    <p class="image-caption">Texto descriptivo de la imagen 5.</p>
+                </div>
+            </div>
+            
+            <button class="carousel-nav next-btn">❯</button>
+        </div>
+    </div>
+</section>
+
+
+<section class="partners-section" id="partners-section">
+    <h1 class="heading">Partners Estratégicos</h1>
+    <div class="partners-container">
+        <div class="partner-logo-box">
+            <img src="img/partner1.png" alt="Logo Partner 1">
+        </div>
+        <div class="partner-logo-box">
+            <img src="img/partner2.png" alt="Logo Partner 2">
+        </div>
+        <div class="partner-logo-box">
+            <img src="img/partner3.png" alt="Logo Partner 3">
+        </div>
+        <div class="partner-logo-box">
+            <img src="img/partner4.png" alt="Logo Partner 4">
+        </div>
+        <div class="partner-logo-box">
+            <img src="img/partner5.png" alt="Logo Partner 5">
+        </div>
+        <div class="partner-logo-box">
+            <img src="img/partner6.png" alt="Logo Partner 6">
+        </div>
+        <div class="partner-logo-box">
+            <img src="img/partner7.png" alt="Logo Partner 7">
+        </div>
+        <div class="partner-logo-box">
+            <img src="img/partner8.png" alt="Logo Partner 8">
+        </div>
+    </div>
+</section>
+
+
+<section class="footer" id="footer">
+            <div class="box-container container">
+
+                <div class="box">
+                    <i class="fas fa-phone"></i>
+                    <h3>WhatsApp</h3>
+                    <p>+569 9371 9226</p>
+                </div>
+
+                <div class="box">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <h3>Acceso</h3>
+                    <p>Ruta 5, conexión con ruta G-132 hacia Tiltil, luego ruta G-16.</p>
+                </div>
+
+                <div class="box">
+                    <i class="fas fa-clock"></i>
+                    <h3>Horario de atención</h3>
+                    <p>Lun a Vie: 08:00 a 20:00<br>Sáb: 08:00 a 16:00</p>
+                </div>
+
+                <div class="box">
+                    <i class="fas fa-envelope"></i>
+                    <h3>Email</h3>
+                    <p>slmelhuracan@gmail.com</p>
+                </div>
+
+            </div>
+
+            <div class="map-container">
+                <p class=location-map>Minera El Huracán se ubica en la comuna de Tiltil, en las coordenadas: -33.030367°, -70.930691° (WGS 84).</p>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d5570.534316634017!2d-70.9286309!3d-33.031874!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDAxJzU0LjgiUyA3MMKwNTUnMzMuOCJX!5e1!3m2!1sen!2scl!4v1754621548935!5m2!1sen!2scl" 
+                    width="100%" 
+                    height="100%" 
+                    style="border:0;" 
+                    allowfullscreen="" 
+                    loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
+            </div>
+
+            <div class="credit"> &copy; Copyright @ <?php echo date('Y'); ?> by <span><a href="https://www.geo2mill.com" target="_blank" rel="noopener noreferrer">CAT COMPANY</a></span>
+</div>
+
+</section>
+
+<a href="56956531001?text=Hola,%20me%20gustar%C3%ADa%20coordinar%20una%20reuni%C3%B3n%20para%20conocer%20m%C3%A1s%20sobre%20el%20proyecto%20El%20Hurac%C3%A1n." target="_blank" class="whatsapp-btn">
+    <img src="icons/whatsapp.png" alt="WhatsApp Consorcio Jurídico" class="whatsapp-icon">
+</a>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
